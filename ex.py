@@ -1,3 +1,4 @@
 """
-This is for tutorial purposes
+corrected the bug error
 """
+
