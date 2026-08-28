@@ -293,19 +293,3 @@ def trending (n=6):
 # TESTING THE TRENDING FUNCTION
 
 print(trending())
-
-                
-                
-            
-                     
-
-
-           
-
-        
-    
-    
-    
-                
-    
-
